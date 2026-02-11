@@ -1,5 +1,7 @@
 # Lesson 01 - seed sample data on start
 
+Compare link: https://github.com/anemdhana/upskilling/compare/b1ab990...a4a51b8
+
 ## Summary
 - Added project docs for PR notes and getting started.
 - Added startup sample data loader that seeds orders on first run.
